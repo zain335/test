@@ -1,0 +1,15 @@
+.tableButton {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.addButton {
+  width: 60% !important;
+}
+.uploadButton {
+  width: 100%;
+}
+
+.hiddenFileInput {
+  display: none;
+}
